@@ -1,0 +1,152 @@
+/**************TAG SELECTOR********************/
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #b26604;
+  font-size: 4.375rem;
+  line-height: 2;
+  margin-top: 1px;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #b26604;
+  font-weight: normal;
+  font-size: 2rem;
+  line-height: 3;
+  margin-top: 20px;
+  font-family: 'Merriweather', serif;
+}
+
+h3 {
+  color: #b26604;
+}
+
+a {
+  color: #b26604;
+  text-decoration: none;
+}
+
+p {
+  margin: 0;
+  line-height: 2;
+  padding-bottom: 20px;
+}
+hr {
+  border-color: grey;
+  border-style: dotted none none;
+  border-width: 6px;
+  width: 5%;
+}
+
+/*************CLASS SELECTOR******************/
+.top-containar {
+  background-color: #fbb776;
+}
+
+.c1 {
+  position: absolute;
+  top: 140px;
+  left: 370px;
+}
+
+.head {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.c2 {
+  position: relative;
+  top: 140px;
+  left: 280px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 0 auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: left;
+  margin-bottom: 60px;
+}
+
+.award {
+  width: 30%;
+  float: left;
+  margin-right: 40px;
+}
+
+.mind {
+  width: 30%;
+  float: left;
+  margin-right: 40px;
+}
+
+.profile {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.bottom-container {
+  background-color: #fbb776;
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+}
+
+.contact-me {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.line1 {
+  padding: 15px;
+}
+.owner {
+  line-height: 5;
+}
+.footer-link {
+  text-decoration: none;
+  padding-right: 30px;
+}
+.p7 {
+  line-height: 2;
+}
+.btn {
+  background: #faa050;
+  background-image: -webkit-linear-gradient(top, #faa050, #ed872d);
+  background-image: -moz-linear-gradient(top, #faa050, #ed872d);
+  background-image: -ms-linear-gradient(top, #faa050, #ed872d);
+  background-image: -o-linear-gradient(top, #faa050, #ed872d);
+  background-image: linear-gradient(to bottom, #faa050, #ed872d);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 27px;
+  padding: 10px 17px 10px 20px;
+  text-decoration: none;
+}
+.toppic {
+  position: absolute;
+  left: 200px;
+  top:20px;
+}
+.about {
+  font-family: 'Sacramento', cursive;
+  font-size: 2.5rem;
+  position: absolute;
+  right: 240px;
+  top:35px;
+}
+.work {
+  font-family: 'Sacramento', cursive;
+  font-size: 2.5rem;
+  position: absolute;
+  right: 100px;
+  top:35px;
+}
